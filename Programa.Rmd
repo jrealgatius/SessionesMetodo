@@ -91,24 +91,27 @@ IDIAP Jordi Gol.
 Los temas versan sobre aspectos independientes que no siguen una hilo
 conductor, y tratan sobre aspectos variados relacionados con la estadística. 
 
-| Núm. |               Tema                |                    Ponente |     Fecha |
-|------|:---------------------------------:|---------------------------:|----------:|
+|Número|               Tema                |                    Ponente |     Fecha |
+|:----:|:---------------------------------:|:---------------------------|:----------|
 | 1    |    Estadística y sentido común    |       José Miguel Martínez |  24-Marzo |
 | 2    |       Estadística Bayesiana       |                  Xavi Puig |  15-Abril |
 | 3    | Reproducibilidad en investigación | Miguel A. Martinez-Beneito |   13-Mayo |
 | 4    |  Replicabilidad en investigación  | Miguel A. Martinez-Beneito |   20-Mayo |
 | 5    |         Inferencia causal         |        Aleix Ruiz de Villa |   10-Junio|
 | 6    |         Maching Learning          |        Aleix Ruiz de Villa |   17-Junio|
-| 7    | Modelos coste-efectividad/utilidad|                            |   Julio   |
+| 7    | Modelos coste-efectividad/utilidad|                   *        |   Julio   |
 | 8    |      Tratamiento de missings      |               Guillem Pera |   Octubre |
 | 9    |        Métodos de matching        |                 Jordi Real | Noviembre |
-| 10   |         A determinar\*               |                            | Diciembre |
+| 10   |        Otros temas  *             |            *               | Diciembre |
+
+         * Pendiente de determinar 
 
 **Temas pendientes o de reserva**
 
 -   Métodos para evaluar el impacto (Laura Muñoz)
 -   Métodos multivariantes (Clustering) (Albert Roso)
 -   Disease mapping / Geoestadística
+-   Analisis de supervivencia / riesgos competitivos 
 -   Errores estadísticos habituales
 
 # Horario
