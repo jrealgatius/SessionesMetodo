@@ -77,47 +77,53 @@ Expertos reconocidos con extensa experiencia en el tema que presenta.
 # Duración
 
 Las sessiones tienen una duración de 90 Minutos que incluyen
-presentación del tema de aproximadamente 60 minutos y, preguntas de los participantes con el
-correspondiente debate (30 minutos)
+presentación del tema de aproximadamente 60 minutos y, preguntas de los
+participantes con el correspondiente debate (30 minutos)
 
 # Asistentes
 
 Investigadores clínicos seniors del grupo de investigación en Diabetes,
-(DAP-Cat). Técnicos de la USR Barcelona, y técnicos de investigación del
+(DAP-Cat), técnicos de la USR Barcelona y técnicos de investigación del
 IDIAP Jordi Gol.
 
 # Programa 2021
 
-Los temas versan sobre aspectos independientes que no siguen una hilo
-conductor, y tratan sobre aspectos variados relacionados con la estadística. 
+Las sessiones versan sobre aspectos independientes que no siguen una
+hilo conductor y tratan sobre aspectos variados relacionados con el
+análisis estadístico en la investigación médica.
 
-|Número|               Tema                |                    Ponente |     Fecha |
-|:----:|:---------------------------------:|:---------------------------|:----------|
-| 1    |    Estadística y sentido común    |       José Miguel Martínez |  24-Marzo |
-| 2    |       Estadística Bayesiana       |                  Xavi Puig |  15-Abril |
-| 3    | Reproducibilidad en investigación | Miguel A. Martinez-Beneito |   13-Mayo |
-| 4    |  Replicabilidad en investigación  | Miguel A. Martinez-Beneito |   20-Mayo |
-| 5    |         Inferencia causal         |        Aleix Ruiz de Villa |   10-Junio|
-| 6    |         Machine Learning          |        Aleix Ruiz de Villa |   17-Junio|
-| 7    | Modelos coste-efectividad/utilidad|                   *        |   Julio   |
-| 8    |      Tratamiento de missings      |               Guillem Pera |   Octubre |
-| 9    |        Métodos de matching        |                 Jordi Real | Noviembre |
-| 10   |        Tema reserva*              |            *               | Diciembre |
+## Horario
 
-         * Tema o ponente no definitivo pendiente a determinar 
+La sessiones se realizarán preferentemente los Jueves 19:00 a 20:30h en
+formato Online, con una periodicidad aproximada de 1 ponente cada mes.
 
-** Otros temas**
+## Temario
+
+| Número |               Título               | Ponente                    | Fecha     |
+|:------:|:----------------------------------:|:---------------------------|:----------|
+|   1    |    Estadística y sentido común     | José Miguel Martínez       | 24-Marzo  |
+|   2    |       Estadística Bayesiana        | Xavi Puig                  | 15-Abril  |
+|   3    | Reproducibilidad en investigación  | Miguel A. Martinez-Beneito | 13-Mayo   |
+|   4    |  Replicabilidad en investigación   | Miguel A. Martinez-Beneito | 20-Mayo   |
+|   5    |         Inferencia causal          | Aleix Ruiz de Villa        | 10-Junio  |
+|   6    |          Machine Learning          | Aleix Ruiz de Villa        | 17-Junio  |
+|   7    | Modelos coste-efectividad/utilidad | \*                         | Julio     |
+|   8    |      Tratamiento de missings       | Guillem Pera               | Octubre   |
+|   9    |        Métodos de matching         | Jordi Real                 | Noviembre |
+|   10   |           Tema reserva\*           | \*                         | Diciembre |
+
+         * Tema o ponente a determinar  
+
+## Otros temas
+
+Temas de interés pendientes de concretar fechas y ponentes que se prevee
+realizar a finales de 2021 o principios del año 2022
 
 -   Métodos para evaluar el impacto (Laura Muñoz)
 -   Métodos multivariantes / Clustering (Albert Roso)
 -   Disease mapping / Geoestadística
--   Análisis de supervivencia / riesgos competitivos 
+-   Análisis de supervivencia / riesgos competitivos
 -   Errores estadísticos habituales
-
-# Horario
-
-El horario es de 19:00 a 20:30h en formato Online. El día de la semana es preferentemente los jueves según disponibilidad del ponente con una
-periodicidad aproximada de 1 ponente cada mes.
 
 Jordi Real Gatius
 [jreal\@idiapjgol.info](mailto:jreal@idiapjgol.info){.email}
@@ -129,7 +135,6 @@ Jordi Real Gatius
 A work by $Jordi Real$ </a>
 
 </p>
-
 
 <p style="text-align: center;">
 
