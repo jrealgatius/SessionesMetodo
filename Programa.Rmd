@@ -98,20 +98,20 @@ conductor, y tratan sobre aspectos variados relacionados con la estadística.
 | 3    | Reproducibilidad en investigación | Miguel A. Martinez-Beneito |   13-Mayo |
 | 4    |  Replicabilidad en investigación  | Miguel A. Martinez-Beneito |   20-Mayo |
 | 5    |         Inferencia causal         |        Aleix Ruiz de Villa |   10-Junio|
-| 6    |         Maching Learning          |        Aleix Ruiz de Villa |   17-Junio|
+| 6    |         Machine Learning          |        Aleix Ruiz de Villa |   17-Junio|
 | 7    | Modelos coste-efectividad/utilidad|                   *        |   Julio   |
 | 8    |      Tratamiento de missings      |               Guillem Pera |   Octubre |
 | 9    |        Métodos de matching        |                 Jordi Real | Noviembre |
-| 10   |        Otros temas  *             |            *               | Diciembre |
+| 10   |        Tema reserva*              |            *               | Diciembre |
 
-         * Pendiente de determinar 
+         * Tema o ponente no definitivo pendiente a determinar 
 
-**Temas pendientes o de reserva**
+** Otros temas**
 
 -   Métodos para evaluar el impacto (Laura Muñoz)
--   Métodos multivariantes (Clustering) (Albert Roso)
+-   Métodos multivariantes / Clustering (Albert Roso)
 -   Disease mapping / Geoestadística
--   Analisis de supervivencia / riesgos competitivos 
+-   Análisis de supervivencia / riesgos competitivos 
 -   Errores estadísticos habituales
 
 # Horario
