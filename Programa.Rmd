@@ -72,7 +72,7 @@ y de la USR de Barcelona, IDIAP Jordi Gol.
 
 # Ponentes
 
-Expertos reconocidos con extensa experiencia en el tema que presenta.
+Expertos en bioestadística con extensa experiencia en el tema que presenta.
 
 # Duración
 
@@ -94,8 +94,8 @@ análisis estadístico en la investigación médica.
 
 ## Horario
 
-La sessiones se realizarán preferentemente los Jueves 19:00 a 20:30h en
-formato Online, con una periodicidad aproximada de 1 ponente cada mes.
+La sessiones se realizarán preferentemente los Jueves por la tarde de 19:00 a 20:30h en
+formato Online/Webinar, con una periodicidad aproximada de 1 ponente cada mes.
 
 ## Temario
 
@@ -108,7 +108,7 @@ formato Online, con una periodicidad aproximada de 1 ponente cada mes.
 |   5    |         [Inferencia causal](https://github.com/jrealgatius/SessionsMetode)                | Aleix Ruiz de Villa        | 10-Junio  |
 |   6    |          [Machine Learning](https://github.com/jrealgatius/SessionsMetode)                  | Aleix Ruiz de Villa        | 17-Junio  |
 |   7    | [Modelos coste-efectividad/utilidad](https://github.com/jrealgatius/SessionsMetode)         | \*                         | Julio     |
-|   8    |      [Tratamiento de missings](https://github.com/jrealgatius/SessionsMetode))               | Guillem Pera               | Octubre   |
+|   8    |      [Tratamiento de missings](https://github.com/jrealgatius/SessionsMetode)               | Guillem Pera               | Octubre   |
 |   9    |        [Métodos de matching](https://github.com/jrealgatius/SessionsMetode)                 | Jordi Real                 | Noviembre |
 |   10   |           [Tema reserva*](https://github.com/jrealgatius/SessionsMetode)  | \*           | Diciembre |
 
