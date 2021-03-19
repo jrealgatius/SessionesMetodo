@@ -99,20 +99,21 @@ formato Online, con una periodicidad aproximada de 1 ponente cada mes.
 
 ## Temario
 
-| Número |               Título               | Ponente                    | Fecha     |
-|:------:|:----------------------------------:|:---------------------------|:----------|
-|   1    |    Estadística y sentido común     | José Miguel Martínez       | 24-Marzo  |
-|   2    |       Estadística Bayesiana        | Xavi Puig                  | 15-Abril  |
-|   3    | Reproducibilidad en investigación  | Miguel A. Martinez-Beneito | 13-Mayo   |
-|   4    |  Replicabilidad en investigación   | Miguel A. Martinez-Beneito | 20-Mayo   |
-|   5    |         Inferencia causal          | Aleix Ruiz de Villa        | 10-Junio  |
-|   6    |          Machine Learning          | Aleix Ruiz de Villa        | 17-Junio  |
-|   7    | Modelos coste-efectividad/utilidad | \*                         | Julio     |
-|   8    |      Tratamiento de missings       | Guillem Pera               | Octubre   |
-|   9    |        Métodos de matching         | Jordi Real                 | Noviembre |
-|   10   |           Tema reserva\*           | \*                         | Diciembre |
+| Número |               Título                               | Ponente                    | Fecha     |
+|:------:|:--------------------------------------------------:|:---------------------------|:----------|
+|   1    |    [Estadística y sentido común](./s1)             | José Miguel Martínez       | 24-Marzo  |
+|   2    |       [Estadística Bayesiana](./s2)                | Xavi Puig                  | 15-Abril  |
+|   3    | [Reproducibilidad en investigación](./s3)          | Miguel A. Martinez-Beneito | 13-Mayo   |
+|   4    |  [Replicabilidad en investigación](./s4)           | Miguel A. Martinez-Beneito | 20-Mayo   |
+|   5    |         [Inferencia causal](./s5)                  | Aleix Ruiz de Villa        | 10-Junio  |
+|   6    |          [Machine Learning](./s6)                  | Aleix Ruiz de Villa        | 17-Junio  |
+|   7    | [Modelos coste-efectividad/utilidad](./s7)         | \*                         | Julio     |
+|   8    |      [Tratamiento de missings](./s8)               | Guillem Pera               | Octubre   |
+|   9    |        [Métodos de matching](./s9)                 | Jordi Real                 | Noviembre |
+|   10   |           [Tema reserva*](./s10)                    | \*                         | Diciembre |
 
          * Tema o ponente a determinar  
+
 
 ## Otros temas
 
