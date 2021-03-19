@@ -100,25 +100,24 @@ formato Online, con una periodicidad aproximada de 1 ponente cada mes.
 ## Temario
 
 | Número |               Título                               | Ponente                    | Fecha     |
-|:------:|:--------------------------------------------------:|:---------------------------|:----------|
-|   1    |    [Estadística y sentido común](./s1)             | José Miguel Martínez       | 24-Marzo  |
-|   2    |       [Estadística Bayesiana](./s2)                | Xavi Puig                  | 15-Abril  |
-|   3    | [Reproducibilidad en investigación](./s3)          | Miguel A. Martinez-Beneito | 13-Mayo   |
-|   4    |  [Replicabilidad en investigación](./s4)           | Miguel A. Martinez-Beneito | 20-Mayo   |
-|   5    |         [Inferencia causal](./s5)                  | Aleix Ruiz de Villa        | 10-Junio  |
-|   6    |          [Machine Learning](./s6)                  | Aleix Ruiz de Villa        | 17-Junio  |
-|   7    | [Modelos coste-efectividad/utilidad](./s7)         | \*                         | Julio     |
-|   8    |      [Tratamiento de missings](./s8)               | Guillem Pera               | Octubre   |
-|   9    |        [Métodos de matching](./s9)                 | Jordi Real                 | Noviembre |
-|   10   |           [Tema reserva*](./s10)                    | \*                         | Diciembre |
+|:------:|:--------------------------------------------------:|:------------------------------|:----------|
+|   1    |    [Estadística y sentido común](https://github.com/jrealgatius/SessionsMetode)             | José Miguel Martínez       | 24-Marzo  |
+|   2    |       [Estadística Bayesiana](https://github.com/jrealgatius/SessionsMetode)                | Xavi Puig                  | 15-Abril  |
+|   3    | [Reproducibilidad en investigación](https://github.com/jrealgatius/SessionsMetode)          | Miguel A. Martinez-Beneito | 13-Mayo   |
+|   4    |  [Replicabilidad en investigación](https://github.com/jrealgatius/SessionsMetode)           | Miguel A. Martinez-Beneito | 20-Mayo   |
+|   5    |         [Inferencia causal](https://github.com/jrealgatius/SessionsMetode)                | Aleix Ruiz de Villa        | 10-Junio  |
+|   6    |          [Machine Learning](https://github.com/jrealgatius/SessionsMetode)                  | Aleix Ruiz de Villa        | 17-Junio  |
+|   7    | [Modelos coste-efectividad/utilidad](https://github.com/jrealgatius/SessionsMetode)         | \*                         | Julio     |
+|   8    |      [Tratamiento de missings](https://github.com/jrealgatius/SessionsMetode))               | Guillem Pera               | Octubre   |
+|   9    |        [Métodos de matching](https://github.com/jrealgatius/SessionsMetode)                 | Jordi Real                 | Noviembre |
+|   10   |           [Tema reserva*](https://github.com/jrealgatius/SessionsMetode)  | \*           | Diciembre |
 
          * Tema o ponente a determinar  
 
 
 ## Otros temas
 
-Temas de interés pendientes de concretar fechas y ponentes que se prevee
-realizar a finales de 2021 o principios del año 2022
+Temas de interés pendientes de concretar fechas y ponentes a realizar a finales de 2021 o principios del año 2022
 
 -   Métodos para evaluar el impacto (Laura Muñoz)
 -   Métodos multivariantes / Clustering (Albert Roso)
