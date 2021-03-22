@@ -107,7 +107,7 @@ formato Online/Webinar, con una periodicidad aproximada de 1 ponente cada mes.
 |   4    |  [Replicabilidad en investigación](https://github.com/jrealgatius/SessionsMetode)           | Miguel A. Martinez-Beneito | 20-Mayo   |
 |   5    |         [Inferencia causal](https://github.com/jrealgatius/SessionsMetode)                | Aleix Ruiz de Villa        | 10-Junio  |
 |   6    |          [Machine Learning](https://github.com/jrealgatius/SessionsMetode)                  | Aleix Ruiz de Villa        | 17-Junio  |
-|   7    | [Modelos coste-efectividad/utilidad](https://github.com/jrealgatius/SessionsMetode)         | \*                         | Julio     |
+|   7    | [Modelos de Simulación y Análisis de Coste-Efectividad](https://github.com/jrealgatius/SessionsMetode)| Mireia Diaz| 15-Julio     |
 |   8    |      [Tratamiento de missings](https://github.com/jrealgatius/SessionsMetode)               | Guillem Pera               | Octubre   |
 |   9    |        [Métodos de matching](https://github.com/jrealgatius/SessionsMetode)                 | Jordi Real                 | Noviembre |
 |   10   |           [Tema reserva*](https://github.com/jrealgatius/SessionsMetode)  | \*           | Diciembre |
