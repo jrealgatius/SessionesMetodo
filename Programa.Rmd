@@ -100,54 +100,31 @@ La sessiones se realizarán preferentemente los Jueves por la tarde de
 19:00 a 20:30h en formato Online/Webinar, con una periodicidad
 aproximada de 1 ponente cada mes.
 
-## Temario
+## Temario y [material](https://github.com/jrealgatius/SessionsMetode)
 
-+----+-----------------------------------+--------------------+------+
-| Nú | Título                            | Ponente            | F    |
-| me |                                   |                    | echa |
-| ro |                                   |                    |      |
-+:==:+:=================================:+:===================+:=====+
-| 1  | [Estadística y sentido            | José Miguel        | 24-M |
-|    | común](https://githu              | Martínez           | arzo |
-|    | b.com/jrealgatius/SessionsMetode) |                    |      |
-+----+-----------------------------------+--------------------+------+
-| 2  | [Estadística                      | Xavi Puig          | 15-A |
-|    | Bayesiana](https://githu          |                    | bril |
-|    | b.com/jrealgatius/SessionsMetode) |                    |      |
-+----+-----------------------------------+--------------------+------+
-| 3  | [Reproducibilidad en              | Miguel A.          | 13-  |
-|    | investigación](https://githu      | Martinez-Beneito   | Mayo |
-|    | b.com/jrealgatius/SessionsMetode) |                    |      |
-+----+-----------------------------------+--------------------+------+
-| 4  | [Replicabilidad en                | Miguel A.          | 20-  |
-|    | investigación](https://githu      | Martinez-Beneito   | Mayo |
-|    | b.com/jrealgatius/SessionsMetode) |                    |      |
-+----+-----------------------------------+--------------------+------+
-| 5  | [Inferencia                       | Aleix Ruiz de      | 10-J |
-|    | causal](https://githu             | Villa              | unio |
-|    | b.com/jrealgatius/SessionsMetode) |                    |      |
-+----+-----------------------------------+--------------------+------+
-| 6  | [Machine                          | Aleix Ruiz de      | 17-J |
-|    | Learning](https://githu           | Villa              | unio |
-|    | b.com/jrealgatius/SessionsMetode) |                    |      |
-+----+-----------------------------------+--------------------+------+
-| 7  | [Modelos de Simulación y Análisis | Mireia Diaz        | 15-J |
-|    | de                                |                    | ulio |
-|    | Coste-Efectividad](https://githu  |                    |      |
-|    | b.com/jrealgatius/SessionsMetode) |                    |      |
-+----+-----------------------------------+--------------------+------+
-| 8  | [Tratamiento de                   | Guillem Pera       | Oct  |
-|    | missings](https://githu           |                    | ubre |
-|    | b.com/jrealgatius/SessionsMetode) |                    |      |
-+----+-----------------------------------+--------------------+------+
-| 9  | [Métodos de                       | Jordi Real         | N    |
-|    | matching](https://githu           |                    | ovie |
-|    | b.com/jrealgatius/SessionsMetode) |                    | mbre |
-+----+-----------------------------------+--------------------+------+
-| 10 | [Tema                             | \*                 | D    |
-|    | reserva\*](https://githu          |                    | icie |
-|    | b.com/jrealgatius/SessionsMetode) |                    | mbre |
-+----+-----------------------------------+--------------------+------+
++----+-----------------------------------------------------------+----------------------------+----------+
+|Núm | Título                                                    | Ponente                    | Fecha    |
++:==:+:=========================================================:+:===========================+:=========+
+| 1  | Estadística y sentido común                               | José Miguel Martínez       | 24-Marzo |
++----+-----------------------------------------------------------+----------------------------+----------+
+| 2  | Inferencia Bayesiana                                      | Xavi Puig                  | 15-Abril |
++----+-----------------------------------------------------------+----------------------------+----------+
+| 3  | Reproducibilidad en investigación                         | Miguel A. Martinez-Beneito | 13-Mayo  |
++----+-----------------------------------------------------------+----------------------------+----------+
+| 4  | Replicabilidad en investigación                           | Miguel A. Martinez-Beneito | 20-Mayo  |
++----+-----------------------------------------------------------+----------------------------+----------+
+| 5  | Inferencia causal                                         | Aleix Ruiz de Villa        | 10-Junio |
++----+-----------------------------------------------------------+----------------------------+----------+
+| 6  | Machine Learning                                          | Aleix Ruiz de Villa        | 17-Junio |
++----+-----------------------------------------------------------+----------------------------+----------+
+| 7  | Modelos de Simulación y Análisis de Coste-Efectividad     | Mireia Diaz                | 15-Julio |
++----+-----------------------------------------------------------+----------------------------+----------+
+| 8  | Tratamiento de missings                                   | Guillem Pera               | Octubre  |
++----+-----------------------------------------------------------+----------------------------+----------+
+| 9  | Métodos de matching                                       | Jordi Real                 | Noviembre|
++----+-----------------------------------------------------------+----------------------------+----------+
+| 10 | Tema reserva*                                             |  *                         | Diciembre|
++----+-----------------------------------------------------------+----------------------------+----------+
 
          * Tema o ponente a determinar  
 
