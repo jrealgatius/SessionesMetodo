@@ -11,9 +11,7 @@ output:
     toc_float: false
     fig_caption: true
     css: logos_css/usr_styles.css
-      
-    includes: 
-      in_header: header.html
+    
 editor_options: 
   markdown: 
     wrap: 72
@@ -23,8 +21,11 @@ editor_options:
 <script>
    $(document).ready(function() {
      $head = $('#header');
-     $head.prepend('<img src=\"https://www.idiapjgol.org/images/logo.png\" style=\"float: right ;width: 130px;\"/>')
-     $head.prepend('<img src=\"https://avatars2.githubusercontent.com/u/57066591?s=200&v=4\" style=\"text-align: center;margin:auto;width: 80px;\"/>')
+     $head.prepend('<img src=\"https://www.idiapjgol.org/images/logo.png\" style=\"float: right ;width: 100px;\"/>')
+     $head.prepend('<img src=\"logos_css/logoLilly.png" style=\"text-align: center;margin:auto;width: 80px;\"/>')
+     $head.prepend('<img src=\"logos_css/logo.jpg" style=\"text-align: left;margin:auto;width: 100px;\"/>')
+     
+     <!-- $head.prepend('<img src=\"https://avatars2.githubusercontent.com/u/57066591?s=200&v=4\" style=\"text-align: center;margin:auto;width: 80px;\"/>') -->
    });
 </script>
 ```
@@ -38,9 +39,9 @@ editor_options:
 #                alt = 'logo', 
 #                style = 'position:absolute; top:-90px; right:1%; padding:5px;')
 
-img<-htmltools::img(src = knitr::image_uri(file.path("logos_css", "logo.jpg")), 
-               alt = 'logo', 
-               style = 'position:absolute; text-align: center;padding-right:150px;width: 185px;padding:10px;')
+# img<-htmltools::img(src = knitr::image_uri(file.path("logos_css", "logo.jpg")), 
+#                alt = 'logo', 
+#                style = 'position:absolute; text-align: center;padding-right:150px;width: 185px;padding:10px;')
 
 # src="https://www.idiapjgol.org/images/logo.png" 
 # style= 'float: right ;width: 130px'
@@ -50,13 +51,13 @@ img<-htmltools::img(src = knitr::image_uri(file.path("logos_css", "logo.jpg")),
 
 # padding-left:30px
 
-htmlhead <- paste0('
-  <script>
-  document.write(\'<div class="logos">',img,'</div>\')
-  </script>
-  ')
-
-readr::write_lines(htmlhead, path = "header.html")
+# htmlhead <- paste0('
+#   <script>
+#   document.write(\'<div class="logos">',img,'</div>\')
+#   </script>
+#   ')
+# 
+# readr::write_lines(htmlhead, path = "header.html")
 
 ```
 
@@ -72,7 +73,8 @@ y de la USR de Barcelona, IDIAP Jordi Gol.
 
 # Ponentes
 
-Expertos en bioestadística con extensa experiencia en el tema que presenta.
+Expertos en bioestadística con extensa experiencia en el tema que
+presenta.
 
 # Duración
 
@@ -94,30 +96,65 @@ análisis estadístico en la investigación médica.
 
 ## Horario
 
-La sessiones se realizarán preferentemente los Jueves por la tarde de 19:00 a 20:30h en
-formato Online/Webinar, con una periodicidad aproximada de 1 ponente cada mes.
+La sessiones se realizarán preferentemente los Jueves por la tarde de
+19:00 a 20:30h en formato Online/Webinar, con una periodicidad
+aproximada de 1 ponente cada mes.
 
 ## Temario
 
-| Número |               Título                               | Ponente                    | Fecha     |
-|:------:|:--------------------------------------------------:|:------------------------------|:----------|
-|   1    |    [Estadística y sentido común](https://github.com/jrealgatius/SessionsMetode)             | José Miguel Martínez       | 24-Marzo  |
-|   2    |       [Estadística Bayesiana](https://github.com/jrealgatius/SessionsMetode)                | Xavi Puig                  | 15-Abril  |
-|   3    | [Reproducibilidad en investigación](https://github.com/jrealgatius/SessionsMetode)          | Miguel A. Martinez-Beneito | 13-Mayo   |
-|   4    |  [Replicabilidad en investigación](https://github.com/jrealgatius/SessionsMetode)           | Miguel A. Martinez-Beneito | 20-Mayo   |
-|   5    |         [Inferencia causal](https://github.com/jrealgatius/SessionsMetode)                | Aleix Ruiz de Villa        | 10-Junio  |
-|   6    |          [Machine Learning](https://github.com/jrealgatius/SessionsMetode)                  | Aleix Ruiz de Villa        | 17-Junio  |
-|   7    | [Modelos de Simulación y Análisis de Coste-Efectividad](https://github.com/jrealgatius/SessionsMetode)| Mireia Diaz| 15-Julio     |
-|   8    |      [Tratamiento de missings](https://github.com/jrealgatius/SessionsMetode)               | Guillem Pera               | Octubre   |
-|   9    |        [Métodos de matching](https://github.com/jrealgatius/SessionsMetode)                 | Jordi Real                 | Noviembre |
-|   10   |           [Tema reserva*](https://github.com/jrealgatius/SessionsMetode)  | \*           | Diciembre |
++----+-----------------------------------+--------------------+------+
+| Nú | Título                            | Ponente            | F    |
+| me |                                   |                    | echa |
+| ro |                                   |                    |      |
++:==:+:=================================:+:===================+:=====+
+| 1  | [Estadística y sentido            | José Miguel        | 24-M |
+|    | común](https://githu              | Martínez           | arzo |
+|    | b.com/jrealgatius/SessionsMetode) |                    |      |
++----+-----------------------------------+--------------------+------+
+| 2  | [Estadística                      | Xavi Puig          | 15-A |
+|    | Bayesiana](https://githu          |                    | bril |
+|    | b.com/jrealgatius/SessionsMetode) |                    |      |
++----+-----------------------------------+--------------------+------+
+| 3  | [Reproducibilidad en              | Miguel A.          | 13-  |
+|    | investigación](https://githu      | Martinez-Beneito   | Mayo |
+|    | b.com/jrealgatius/SessionsMetode) |                    |      |
++----+-----------------------------------+--------------------+------+
+| 4  | [Replicabilidad en                | Miguel A.          | 20-  |
+|    | investigación](https://githu      | Martinez-Beneito   | Mayo |
+|    | b.com/jrealgatius/SessionsMetode) |                    |      |
++----+-----------------------------------+--------------------+------+
+| 5  | [Inferencia                       | Aleix Ruiz de      | 10-J |
+|    | causal](https://githu             | Villa              | unio |
+|    | b.com/jrealgatius/SessionsMetode) |                    |      |
++----+-----------------------------------+--------------------+------+
+| 6  | [Machine                          | Aleix Ruiz de      | 17-J |
+|    | Learning](https://githu           | Villa              | unio |
+|    | b.com/jrealgatius/SessionsMetode) |                    |      |
++----+-----------------------------------+--------------------+------+
+| 7  | [Modelos de Simulación y Análisis | Mireia Diaz        | 15-J |
+|    | de                                |                    | ulio |
+|    | Coste-Efectividad](https://githu  |                    |      |
+|    | b.com/jrealgatius/SessionsMetode) |                    |      |
++----+-----------------------------------+--------------------+------+
+| 8  | [Tratamiento de                   | Guillem Pera       | Oct  |
+|    | missings](https://githu           |                    | ubre |
+|    | b.com/jrealgatius/SessionsMetode) |                    |      |
++----+-----------------------------------+--------------------+------+
+| 9  | [Métodos de                       | Jordi Real         | N    |
+|    | matching](https://githu           |                    | ovie |
+|    | b.com/jrealgatius/SessionsMetode) |                    | mbre |
++----+-----------------------------------+--------------------+------+
+| 10 | [Tema                             | \*                 | D    |
+|    | reserva\*](https://githu          |                    | icie |
+|    | b.com/jrealgatius/SessionsMetode) |                    | mbre |
++----+-----------------------------------+--------------------+------+
 
          * Tema o ponente a determinar  
 
-
 ## Otros temas
 
-Temas de interés pendientes de concretar fechas y ponentes a realizar a finales de 2021 o principios del año 2022
+Temas de interés pendientes de concretar fechas y ponentes a realizar a
+finales de 2021 o principios del año 2022
 
 -   Métodos para evaluar el impacto (Laura Muñoz)
 -   Métodos multivariantes / Clustering (Albert Roso)
