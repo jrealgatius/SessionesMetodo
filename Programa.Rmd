@@ -1,7 +1,6 @@
 ---
 title: "Sesiones de metodología estadística"
 subtitle: "Aspectos de investigación clínica relacionados con la estadística"
-author: "Jordi Real"
 website: "https://github.com/SessionsMetode/"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
@@ -61,6 +60,25 @@ editor_options:
 
 ```
 
+
+```{r lectura, echo=FALSE,message=FALSE, warning=FALSE}
+
+library(dplyr)
+
+
+programa<-readxl::read_xlsx("programa.xlsx")
+
+# Preparo dades
+
+programa<-programa %>%  
+  mutate (link=paste0("https://github.com/jrealgatius/SessionsMetode/tree/main/s",id)) %>% 
+  mutate(data=format(Fecha,format="%B %d")) 
+
+
+```
+
+
+
 # Objetivo
 
 Dar a conocer a los investigadores aspectos metodológicos o estadísticos
@@ -68,7 +86,7 @@ Dar a conocer a los investigadores aspectos metodológicos o estadísticos
 
 # Coordinación
 
-Jordi Real, coordinador de la unidad de bioestadística del grupo DAP.cat
+Jordi Real, coordinador de la unidad de bioestadística del grupo DAPcat
 y de la USR de Barcelona, IDIAP Jordi Gol.
 
 # Ponentes
@@ -102,31 +120,20 @@ aproximada de 1 ponente cada mes.
 
 ## Temario y [material](https://github.com/jrealgatius/SessionsMetode)
 
-+----+-----------------------------------------------------------+----------------------------+----------+
-|Núm | Título                                                    | Ponente                    | Fecha    |
-+:==:+:=========================================================:+:===========================+:=========+
-| 1  | Estadística y sentido común                               | José Miguel Martínez       | 24-Marzo |
-+----+-----------------------------------------------------------+----------------------------+----------+
-| 2  | Inferencia Bayesiana                                      | Xavi Puig                  | 15-Abril |
-+----+-----------------------------------------------------------+----------------------------+----------+
-| 3  | Reproducibilidad en investigación                         | Miguel A. Martinez-Beneito | 13-Mayo  |
-+----+-----------------------------------------------------------+----------------------------+----------+
-| 4  | Replicabilidad en investigación                           | Miguel A. Martinez-Beneito | 20-Mayo  |
-+----+-----------------------------------------------------------+----------------------------+----------+
-| 5  | Inferencia causal                                         | Aleix Ruiz de Villa        | 10-Junio |
-+----+-----------------------------------------------------------+----------------------------+----------+
-| 6  | Machine Learning                                          | Aleix Ruiz de Villa        | 17-Junio |
-+----+-----------------------------------------------------------+----------------------------+----------+
-| 7  | Modelos de Simulación y Análisis de Coste-Efectividad     | Mireia Diaz                | 15-Julio |
-+----+-----------------------------------------------------------+----------------------------+----------+
-| 8  | Tratamiento de missings                                   | Guillem Pera               | Octubre  |
-+----+-----------------------------------------------------------+----------------------------+----------+
-| 9  | Métodos de matching                                       | Jordi Real                 | Noviembre|
-+----+-----------------------------------------------------------+----------------------------+----------+
-| 10 | Tema reserva*                                             |  *                         | Diciembre|
-+----+-----------------------------------------------------------+----------------------------+----------+
 
-         * Tema o ponente a determinar  
+```{r, include=TRUE, echo=FALSE}
+
+programa %>% mutate(data=if_else(!is.na(data),data,mes,missing=mes)) %>% 
+  filter(any==2021) %>%  
+  transmute(Núm=id,Titulo=paste0("[",Titulo,"]","(",link,")"),Ponente,Fecha=data) %>% 
+  knitr::kable() %>% 
+  kableExtra::kable_styling()
+
+
+
+```
+
+
 
 ## Otros temas
 
@@ -139,16 +146,14 @@ finales de 2021 o principios del año 2022
 -   Análisis de supervivencia / riesgos competitivos
 -   Errores estadísticos habituales
 
-Jordi Real Gatius
+
+----
+
+Jordi Real Gatius <br/>
+USR Barcelona - IDIAP Jordi Gol <br/>
+Grupo DAP-Cat <br/>
+
 [jreal\@idiapjgol.info](mailto:jreal@idiapjgol.info){.email}
-
-<hr />
-
-<p style="text-align: center;">
-
-A work by $Jordi Real$ </a>
-
-</p>
 
 <p style="text-align: center;">
 
