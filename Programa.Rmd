@@ -1,5 +1,5 @@
 ---
-title: "Sesiones de metodología estadística"
+title: "Sesiones de estadística DAP-Cat"
 subtitle: "Aspectos de investigación clínica relacionados con la estadística"
 website: "https://github.com/SessionsMetode/"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
@@ -87,7 +87,7 @@ Dar a conocer a los investigadores aspectos metodológicos o estadísticos
 # Coordinación
 
 Jordi Real, coordinador de la unidad de bioestadística del grupo DAPcat
-y de la USR de Barcelona, IDIAP Jordi Gol.
+y técnico de investigación de la USR de Barcelona, IDIAP Jordi Gol.
 
 # Ponentes
 
@@ -109,8 +109,8 @@ IDIAP Jordi Gol.
 # Programa 2021
 
 Las sessiones versan sobre aspectos independientes que no siguen una
-hilo conductor y tratan sobre aspectos variados relacionados con el
-análisis estadístico en la investigación médica.
+hilo conductor y tratan sobre temas variados relacionados con el
+análisis estadístico en el ámbito de la investigación clínica.
 
 ## Horario
 
