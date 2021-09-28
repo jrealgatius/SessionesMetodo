@@ -3,6 +3,7 @@ title: "Sesiones de estadística DAP-Cat"
 subtitle: "Aspectos de investigación clínica relacionados con la estadística"
 website: "https://github.com/SessionsMetode/"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+author: "[Jordi Real Gatius](https://jrealgatius.github.io/CV/JReal_CV.html)" 
 output:
   html_document:
     df_print: paged
@@ -62,6 +63,8 @@ editor_options:
 
 
 ```{r lectura, echo=FALSE,message=FALSE, warning=FALSE}
+
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE)
 
 library(dplyr)
 
@@ -158,5 +161,7 @@ Grupo DAP-Cat <br/>
 <p style="text-align: center;">
 
 <em><https://github.com/jrealgatius/></em>
+
+<em><https://jrealgatius.github.io/SessionsMetode/Programa.html><em>
 
 </p>
